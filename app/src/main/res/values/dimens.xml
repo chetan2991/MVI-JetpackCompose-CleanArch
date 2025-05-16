@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="charater_item_card_elevation">8dp</dimen>
+    <dimen name="padding_smalll">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="character_item_image_size">120dp</dimen>
+    <dimen name="character_detail_image_size">200dp</dimen>
+</resources>
